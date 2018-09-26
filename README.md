@@ -1,8 +1,6 @@
 # VP141-241 (TeX template)
 
 Finishing date: Aug 11th, 2018
-
-UM-SJTU Joint Stitute
 _____________________
 This is a template for Physics Laboratory templates.
 
