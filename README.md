@@ -1,9 +1,5 @@
 # VP141-241 (TeX template)
 
-Author: wyhsjtu
-
-E-mail: wangyuhao@sjtu.edu.cn
-
 Finishing date: Aug 11th, 2018
 
 UM-SJTU Joint Stitute
