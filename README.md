@@ -8,7 +8,7 @@ Including:
 
 * Assignment template
 
-* Totorials provided by @tc-imba
+* Tutorials provided by @tc-imba
 
 No sample assignment is given as the assignments vary much, a template is of course enough.
 
