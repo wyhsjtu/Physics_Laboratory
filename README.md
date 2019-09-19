@@ -1,4 +1,4 @@
-# VP141-241 (TeX template)
+# UM-SJTU Joint Institute VP141-241 (TeX template)
 
 Finishing date: Aug 11th, 2018
 _____________________
